@@ -1,5 +1,11 @@
 streamlit
-pandas
-datetime
-uuid
 python-dotenv
+boto3
+requests
+streamlit-lottie
+streamlit-antd-components
+streamlit-option-menu
+streamlit-modal
+streamlit-timeline
+streamlit-calendar
+streamlit-extras
